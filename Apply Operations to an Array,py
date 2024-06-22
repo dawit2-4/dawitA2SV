@@ -1,0 +1,20 @@
+class Solution:
+    def applyOperations(self, nums: List[int]) -> List[int]:
+        l = 0
+        r = 0
+        while r < len(nums) - 1:
+            if nums[r] == nums[r + 1]:
+                nums[r] = 2 * nums[r]
+                nums[r + 1] = 0
+            r += 1
+        insert_pos = 0
+        
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                nums[insert_pos] = nums[i]
+                if insert_pos != i:
+                    nums[i] = 0
+                insert_pos += 1
+        return nums
+            
+        

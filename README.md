@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/dawit2-4/dawitA2SV/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
 | [0792-binary-search](https://github.com/dawit2-4/dawitA2SV/tree/master/0792-binary-search) |
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/dawit2-4/dawitA2SV/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/dawit2-4/dawitA2SV/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
 ## Bit Manipulation

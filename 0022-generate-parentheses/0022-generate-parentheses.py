@@ -1,10 +1,10 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         ans = []
-        # path = []
+       
 
         def backtrack(opening, closing, path):
-            print(path[:], opening, closing)
+         
             if opening > closing:
                 return
             if opening == n:

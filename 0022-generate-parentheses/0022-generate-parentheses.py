@@ -4,14 +4,7 @@ class Solution:
        
 
         def backtrack(opening, closing, path):
-         
             if opening > closing:
-                return
-            if opening == n:
-                path.append('(')
-                backtrack(opening-1, closing, path[:])
-                return
-            if closing == 0:
                 return
             if opening == 0:
                 ans.append("".join(path[:] + ([')']*closing)))

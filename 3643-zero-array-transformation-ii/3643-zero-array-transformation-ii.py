@@ -3,14 +3,14 @@ class Solution:
         def checker(i):
             l = 0
             arr = [0] * len(nums)
-            while l <= i:
+            for l in range(i+1):
                 left = queries[l][0]
                 right = queries[l][1]
                 val = queries[l][2]
                 arr[left] -= val
                 if right+1 < len(arr):
                     arr[right+1] += val
-                l += 1
+                
 
             if arr[0] + nums[0] > 0:
                 return False

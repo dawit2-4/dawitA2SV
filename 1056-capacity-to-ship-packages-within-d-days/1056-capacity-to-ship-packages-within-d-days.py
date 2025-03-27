@@ -6,19 +6,18 @@ class Solution:
 
             for weight in weights:
                 cur_sum += weight
-
                 if cur_sum > capacity:
                     cur_sum = weight
                     days_count += 1
+
                     if days_count > days:
                         return False
             return True
-                
-        high = sum(weights)
         low = max(weights)
+        high = sum(weights)
 
         while low <= high:
-            mid = (high+low)//2
+            mid = (high + low)//2
 
             if validate(mid):
                 high = mid - 1

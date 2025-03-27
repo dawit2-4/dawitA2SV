@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
 | [0792-binary-search](https://github.com/dawit2-4/dawitA2SV/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dawit2-4/dawitA2SV/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [3643-zero-array-transformation-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/dawit2-4/dawitA2SV/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/dawit2-4/dawitA2SV/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dawit2-4/dawitA2SV/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [3643-zero-array-transformation-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->

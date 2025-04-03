@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dawit2-4/dawitA2SV/tree/master/1675-magnetic-force-between-two-balls) |
 ## Hash Table
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -111,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

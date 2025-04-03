@@ -30,7 +30,7 @@ class Solution:
                 return quickSelect(nums, pivot+ 1, right)
         index = quickSelect(arr, 0, len(arr) - 1)
         res = []
-        print(arr)
+        # print(arr)
         for i in range(index, len(arr)):
             res.append(arr[i][1])
         return res

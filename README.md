@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/dawit2-4/dawitA2SV/tree/master/0547-number-of-provinces) |
 | [0922-possible-bipartition](https://github.com/dawit2-4/dawitA2SV/tree/master/0922-possible-bipartition) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/dawit2-4/dawitA2SV/tree/master/0547-number-of-provinces) |
 | [0922-possible-bipartition](https://github.com/dawit2-4/dawitA2SV/tree/master/0922-possible-bipartition) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/dawit2-4/dawitA2SV/tree/master/0547-number-of-provinces) |
 | [0922-possible-bipartition](https://github.com/dawit2-4/dawitA2SV/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/dawit2-4/dawitA2SV/tree/master/1039-find-the-town-judge) |
 | [3189-find-champion-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/3189-find-champion-ii) |
@@ -151,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/dawit2-4/dawitA2SV/tree/master/0547-number-of-provinces) |
 | [0922-possible-bipartition](https://github.com/dawit2-4/dawitA2SV/tree/master/0922-possible-bipartition) |
 <!---LeetCode Topics End-->

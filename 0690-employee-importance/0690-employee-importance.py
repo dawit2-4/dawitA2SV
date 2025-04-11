@@ -9,9 +9,7 @@ class Employee:
 
 class Solution:
     def getImportance(self, employees: List['Employee'], id: int) -> int:
-        ans = 0
        
-            
         for i in range(len(employees)):
             if employees[i].id == id:
                 importance = employees[i].importance

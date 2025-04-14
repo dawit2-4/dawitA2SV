@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0690-employee-importance](https://github.com/dawit2-4/dawitA2SV/tree/master/0690-employee-importance) |
 | [0772-construct-quad-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0772-construct-quad-tree) |
+| [1005-univalued-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/1005-univalued-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/dawit2-4/dawitA2SV/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/dawit2-4/dawitA2SV/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/dawit2-4/dawitA2SV/tree/master/0695-max-area-of-island) |
 | [0922-possible-bipartition](https://github.com/dawit2-4/dawitA2SV/tree/master/0922-possible-bipartition) |
+| [1005-univalued-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/1005-univalued-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/dawit2-4/dawitA2SV/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -28,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/dawit2-4/dawitA2SV/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/dawit2-4/dawitA2SV/tree/master/0695-max-area-of-island) |
 | [0922-possible-bipartition](https://github.com/dawit2-4/dawitA2SV/tree/master/0922-possible-bipartition) |
+| [1005-univalued-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/1005-univalued-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/dawit2-4/dawitA2SV/tree/master/1492-time-needed-to-inform-all-employees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1005-univalued-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/1005-univalued-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Array
 |  |

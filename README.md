@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/dawit2-4/dawitA2SV/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/dawit2-4/dawitA2SV/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1876-map-of-highest-peak](https://github.com/dawit2-4/dawitA2SV/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/dawit2-4/dawitA2SV/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dawit2-4/dawitA2SV/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dawit2-4/dawitA2SV/tree/master/1675-magnetic-force-between-two-balls) |
+| [1876-map-of-highest-peak](https://github.com/dawit2-4/dawitA2SV/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/dawit2-4/dawitA2SV/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dawit2-4/dawitA2SV/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/3643-zero-array-transformation-ii) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0772-construct-quad-tree) |
 | [1036-rotting-oranges](https://github.com/dawit2-4/dawitA2SV/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1876-map-of-highest-peak](https://github.com/dawit2-4/dawitA2SV/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/dawit2-4/dawitA2SV/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Union Find
 |  |

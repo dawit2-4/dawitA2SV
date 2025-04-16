@@ -8,7 +8,7 @@ class Solution:
         count = 0
         queue = deque()
 
-        def dfs(i):
+        def bfs(i):
             nodes = []
             queue.append(i)
             
@@ -26,7 +26,7 @@ class Solution:
         for i in range(n):
             if i not in visited:
                 visited.add(i)
-                if dfs(i):
+                if bfs(i):
                     count += 1
         return count
                         

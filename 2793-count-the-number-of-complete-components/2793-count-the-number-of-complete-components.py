@@ -6,28 +6,31 @@ class Solution:
             graph[neighbour].append(node)
         visited = set()
         count = 0
-        queue = deque()
 
-        def bfs(i):
-            nodes = []
-            queue.append(i)
+        def dfs(i):
+            arr = [i]
+            for child in graph[i]:
+                if child not in visited:
+                    visited.add(child)
+                    new_a = dfs(child)
+                    arr.extend(new_a)
             
-            while queue:
-                num = queue.popleft()
-                nodes.append(num)
-                for child in graph[num]:
-                    if child not in visited:
-                        queue.append(child)
-                        visited.add(child)
-            for node in nodes:
-                if len(graph[node]) != len(nodes) - 1:
-                    return False
-            return True
+            return arr
+
+            
         for i in range(n):
             if i not in visited:
                 visited.add(i)
-                if bfs(i):
+                nodes = dfs(i)
+                complete = True
+                for node in nodes:
+                    if len(graph[node]) != len(nodes) - 1:
+                        complete = False
+                        break
+                if complete:
                     count += 1
+
+                
         return count
                         
 

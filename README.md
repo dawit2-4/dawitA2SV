@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/dawit2-4/dawitA2SV/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dawit2-4/dawitA2SV/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/dawit2-4/dawitA2SV/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/dawit2-4/dawitA2SV/tree/master/0278-first-bad-version) |
 | [0475-heaters](https://github.com/dawit2-4/dawitA2SV/tree/master/0475-heaters) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/dawit2-4/dawitA2SV/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/dawit2-4/dawitA2SV/tree/master/0695-max-area-of-island) |

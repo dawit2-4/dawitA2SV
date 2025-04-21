@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/dawit2-4/dawitA2SV/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/dawit2-4/dawitA2SV/tree/master/0093-restore-ip-addresses) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dawit2-4/dawitA2SV/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/dawit2-4/dawitA2SV/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/dawit2-4/dawitA2SV/tree/master/0093-restore-ip-addresses) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/dawit2-4/dawitA2SV/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/dawit2-4/dawitA2SV/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/dawit2-4/dawitA2SV/tree/master/0922-possible-bipartition) |
 | [2793-count-the-number-of-complete-components](https://github.com/dawit2-4/dawitA2SV/tree/master/2793-count-the-number-of-complete-components) |
+## Stack
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |
+## Greedy
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->

@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/dawit2-4/dawitA2SV/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/dawit2-4/dawitA2SV/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/dawit2-4/dawitA2SV/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/dawit2-4/dawitA2SV/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/dawit2-4/dawitA2SV/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/dawit2-4/dawitA2SV/tree/master/0093-restore-ip-addresses) |

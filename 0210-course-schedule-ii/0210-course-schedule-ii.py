@@ -1,28 +1,39 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         graph = defaultdict(list)
-        in_degree = [0] * numCourses
-        
+        visited = set()
         for course, pre in prerequisites:
-            graph[pre].append(course)
-            in_degree[course] += 1
+            graph[course].append(pre)
+        print(graph)
+        stack = []
         
-        ans = []
-        queue = deque()
+        def dfs(num, path):
+            if len(graph[num]) == 0:
+                visited.add(num)
+                stack.append(num)
+                path.add(num)
+                return True
+            
+            if num in path:
+                return False
+            path.add(num)
+            for child in graph[num]:
+                if child not in visited:
+                    if not dfs(child, path):
+                        return False
+            visited.add(num)
+            stack.append(num)
+            return True
+            
+                    
+        
         for i in range(numCourses):
-            if in_degree[i] == 0:
-                queue.append(i)
-        
-        while queue:
-            for _ in range(len(queue)):
-                num = queue.popleft()
-                ans.append(num)
+            if i not in visited:
+                if not dfs(i,set()):
+                    return []
+        # ans = []
+        # while stack:
+        #     ans.append(stack.pop())
+        return stack
+            
 
-                for child in graph[num]:
-                    in_degree[child] -= 1
-                    if in_degree[child] == 0:
-                        queue.append(child)
-        if len(ans) == numCourses:
-            return ans
-        else:
-            return []

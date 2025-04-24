@@ -22,17 +22,9 @@ class Solution:
                     if q_new < q:
                         n = n_new
                         q = q_new
-                elif q > quiet[ans[child]]: # instead of q > quiet[child]
-                    # if the child is visited it means the child already have 
-                    # the quietest one from the people who are richer than him 
-                    # including it self
-
-                    # so instead of comparing to the quiet of the child q should
-                    # be compared with the quite of already quitest meaning, the one
-                    # who is in the ans array  
-
-                    q = quiet[ans[child]] # instead of q = quiet[child]
-                    n = ans[child] # instead of n = child
+                elif q > quiet[ans[child]]: 
+                    q = quiet[ans[child]] 
+                    n = ans[child] 
 
             ans[i] = n
             return(n , q)

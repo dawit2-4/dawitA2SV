@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/dawit2-4/dawitA2SV/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/dawit2-4/dawitA2SV/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/dawit2-4/dawitA2SV/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/dawit2-4/dawitA2SV/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/dawit2-4/dawitA2SV/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/dawit2-4/dawitA2SV/tree/master/0922-possible-bipartition) |
 | [1005-univalued-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/1005-univalued-binary-tree) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/dawit2-4/dawitA2SV/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/dawit2-4/dawitA2SV/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/dawit2-4/dawitA2SV/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/dawit2-4/dawitA2SV/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/dawit2-4/dawitA2SV/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/dawit2-4/dawitA2SV/tree/master/0922-possible-bipartition) |
 | [1005-univalued-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/1005-univalued-binary-tree) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/dawit2-4/dawitA2SV/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/dawit2-4/dawitA2SV/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/dawit2-4/dawitA2SV/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/dawit2-4/dawitA2SV/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/dawit2-4/dawitA2SV/tree/master/0922-possible-bipartition) |
 | [1039-find-the-town-judge](https://github.com/dawit2-4/dawitA2SV/tree/master/1039-find-the-town-judge) |
@@ -249,5 +252,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/dawit2-4/dawitA2SV/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dawit2-4/dawitA2SV/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->

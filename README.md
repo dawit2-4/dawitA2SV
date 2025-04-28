@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/1005-univalued-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dawit2-4/dawitA2SV/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/dawit2-4/dawitA2SV/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1558-course-schedule-iv](https://github.com/dawit2-4/dawitA2SV/tree/master/1558-course-schedule-iv) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/dawit2-4/dawitA2SV/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/dawit2-4/dawitA2SV/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dawit2-4/dawitA2SV/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/dawit2-4/dawitA2SV/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1558-course-schedule-iv](https://github.com/dawit2-4/dawitA2SV/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/dawit2-4/dawitA2SV/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/dawit2-4/dawitA2SV/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/dawit2-4/dawitA2SV/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/dawit2-4/dawitA2SV/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dawit2-4/dawitA2SV/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/dawit2-4/dawitA2SV/tree/master/1558-course-schedule-iv) |
 | [2793-count-the-number-of-complete-components](https://github.com/dawit2-4/dawitA2SV/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/3189-find-champion-ii) |
 ## Matrix
@@ -258,4 +261,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/dawit2-4/dawitA2SV/tree/master/0820-find-eventual-safe-states) |
 | [0881-loud-and-rich](https://github.com/dawit2-4/dawitA2SV/tree/master/0881-loud-and-rich) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/dawit2-4/dawitA2SV/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/dawit2-4/dawitA2SV/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->

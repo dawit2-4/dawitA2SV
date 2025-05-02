@@ -1,27 +1,38 @@
+class UnionFind:
+    def __init__(self, n):
+        self.size = [1] * (n + 1)
+        self.parent = [i for i in range(n+1)]
+    def find(self, node):
+        while node != self.parent[node]:
+            self.parent[node] = self.parent[self.parent[node]]
+            node = self.parent[node]
+        return node
+    def union(self, node1, node2):
+        root1 = self.find(node1)
+        root2 = self.find(node2)
+
+        if root1 == root2:
+            return [node1, node2] 
+        else:
+            if self.size[root1] >= self.size[root2]:
+                self.parent[root2] = root1
+                self.size[root1] += self.size[root2]
+            else:
+                self.parent[root1] = root2
+                self.size[root2] += self.size[root1]
+
+
+
+
+
 class Solution:
-    def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
-        visited = set()
+    def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:    
         max_n = 0
         for i, j in edges:
             max_n = max(max_n, max(i,j))
-        parent = [i for i in range(max_n +1)]
-        size = [1] * (max_n+1)
-        def find(n1):
-            while n1 != parent[n1]:
-                parent[n1] = parent[parent[n1]]
-                n1 = parent[n1]
-            return n1
+        unionfind = UnionFind(max_n)
         for n1, n2 in edges:
-           
-            root1 = find(n1)
-            root2 = find(n2)
-
-            if root1 == root2:
-                return [n1,n2]
-            else:
-                if size[root1] >= size[root2]:
-                    parent[root2] = root1
-                    size[root1] += size[root2]
-                else:
-                    parent[root1] = root2
-                    size[root2] += size[root1]
+            ans = unionfind.union(n1,n2)
+            if ans:
+                return ans
+        

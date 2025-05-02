@@ -7,12 +7,12 @@ class Solution:
         parent = [i for i in range(max_n +1)]
         size = [1] * (max_n+1)
         def find(n1):
-            if n1 == parent[n1]:
-                return n1
-            parent[n1] = find(parent[n1])
-            return parent[n1]
+            while n1 != parent[n1]:
+                parent[n1] = parent[parent[n1]]
+                n1 = parent[n1]
+            return n1
         for n1, n2 in edges:
-            # print(parent)
+           
             root1 = find(n1)
             root2 = find(n2)
 

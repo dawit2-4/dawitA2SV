@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/dawit2-4/dawitA2SV/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/dawit2-4/dawitA2SV/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/dawit2-4/dawitA2SV/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/dawit2-4/dawitA2SV/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/dawit2-4/dawitA2SV/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/dawit2-4/dawitA2SV/tree/master/0820-find-eventual-safe-states) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/dawit2-4/dawitA2SV/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/dawit2-4/dawitA2SV/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/dawit2-4/dawitA2SV/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/dawit2-4/dawitA2SV/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/dawit2-4/dawitA2SV/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/dawit2-4/dawitA2SV/tree/master/0820-find-eventual-safe-states) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/dawit2-4/dawitA2SV/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/dawit2-4/dawitA2SV/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/dawit2-4/dawitA2SV/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/dawit2-4/dawitA2SV/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/dawit2-4/dawitA2SV/tree/master/0792-binary-search) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/dawit2-4/dawitA2SV/tree/master/0093-restore-ip-addresses) |
+| [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/dawit2-4/dawitA2SV/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
 | [0475-heaters](https://github.com/dawit2-4/dawitA2SV/tree/master/0475-heaters) |
 | [0645-set-mismatch](https://github.com/dawit2-4/dawitA2SV/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dawit2-4/dawitA2SV/tree/master/1675-magnetic-force-between-two-balls) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Hash Table
@@ -183,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/dawit2-4/dawitA2SV/tree/master/0480-sliding-window-median) |
 | [0645-set-mismatch](https://github.com/dawit2-4/dawitA2SV/tree/master/0645-set-mismatch) |
 | [0690-employee-importance](https://github.com/dawit2-4/dawitA2SV/tree/master/0690-employee-importance) |
+| [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [1039-find-the-town-judge](https://github.com/dawit2-4/dawitA2SV/tree/master/1039-find-the-town-judge) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/dawit2-4/dawitA2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Divide and Conquer
@@ -272,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/dawit2-4/dawitA2SV/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/dawit2-4/dawitA2SV/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/dawit2-4/dawitA2SV/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/dawit2-4/dawitA2SV/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/dawit2-4/dawitA2SV/tree/master/0922-possible-bipartition) |
 | [2793-count-the-number-of-complete-components](https://github.com/dawit2-4/dawitA2SV/tree/master/2793-count-the-number-of-complete-components) |

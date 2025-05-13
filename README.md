@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
+| [0338-counting-bits](https://github.com/dawit2-4/dawitA2SV/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/dawit2-4/dawitA2SV/tree/master/0645-set-mismatch) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/dawit2-4/dawitA2SV/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/0022-generate-parentheses) |
+| [0338-counting-bits](https://github.com/dawit2-4/dawitA2SV/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0542-01-matrix) |
 ## Prefix Sum
 |  |

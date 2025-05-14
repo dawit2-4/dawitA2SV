@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/dawit2-4/dawitA2SV/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/dawit2-4/dawitA2SV/tree/master/0645-set-mismatch) |

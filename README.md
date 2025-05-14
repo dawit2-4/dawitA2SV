@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/dawit2-4/dawitA2SV/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/dawit2-4/dawitA2SV/tree/master/0645-set-mismatch) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/dawit2-4/dawitA2SV/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/dawit2-4/dawitA2SV/tree/master/0278-first-bad-version) |
 | [0475-heaters](https://github.com/dawit2-4/dawitA2SV/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/dawit2-4/dawitA2SV/tree/master/0792-binary-search) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dawit2-4/dawitA2SV/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dawit2-4/dawitA2SV/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Interactive
 |  |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
 | [0475-heaters](https://github.com/dawit2-4/dawitA2SV/tree/master/0475-heaters) |
@@ -190,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0448-find-all-numbers-disappeared-in-an-array) |

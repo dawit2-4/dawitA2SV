@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dawit2-4/dawitA2SV/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dawit2-4/dawitA2SV/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dawit2-4/dawitA2SV/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [2621-find-xor-beauty-of-array](https://github.com/dawit2-4/dawitA2SV/tree/master/2621-find-xor-beauty-of-array) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/dawit2-4/dawitA2SV/tree/master/0067-add-binary) |
 | [0093-restore-ip-addresses](https://github.com/dawit2-4/dawitA2SV/tree/master/0093-restore-ip-addresses) |
 | [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dawit2-4/dawitA2SV/tree/master/1032-satisfiability-of-equality-equations) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/dawit2-4/dawitA2SV/tree/master/0067-add-binary) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Sliding Window
 |  |

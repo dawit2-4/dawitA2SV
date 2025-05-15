@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/dawit2-4/dawitA2SV/tree/master/0093-restore-ip-addresses) |
 | [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dawit2-4/dawitA2SV/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/dawit2-4/dawitA2SV/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/dawit2-4/dawitA2SV/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/dawit2-4/dawitA2SV/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dawit2-4/dawitA2SV/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dawit2-4/dawitA2SV/tree/master/1032-satisfiability-of-equality-equations) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/dawit2-4/dawitA2SV/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dawit2-4/dawitA2SV/tree/master/1706-min-cost-to-connect-all-points) |
 | [2793-count-the-number-of-complete-components](https://github.com/dawit2-4/dawitA2SV/tree/master/2793-count-the-number-of-complete-components) |
 ## Stack

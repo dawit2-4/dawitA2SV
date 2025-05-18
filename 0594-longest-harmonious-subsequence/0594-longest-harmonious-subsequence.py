@@ -1,11 +1,11 @@
 class Solution:
     def findLHS(self, nums: List[int]) -> int:
+        nums.sort()
+        left = 0
         ans = 0
-        count = defaultdict(int)
-        for num in nums:
-            count[num] += 1
-        for num in set(nums):
-            if count[num+1]:
-                c = count[num] + count[num+1]
-                ans = max(c, ans)
+        for right in range(len(nums)):
+            while nums[right] - nums[left] > 1:
+                left += 1
+            if nums[right] - nums[left] == 1:
+                ans = max(ans, right - left + 1)
         return ans

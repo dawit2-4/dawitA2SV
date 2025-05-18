@@ -1,12 +1,24 @@
+from typing import List
+
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
-        summ = 0
         n = len(nums)
-        total = sum(nums)
+        pref_l = nums[:]
+        pref_r = nums[:]
 
+        
+        for i in range(1, n):
+            pref_l[i] = pref_l[i - 1] + nums[i]
+
+        
+        for i in range(n - 2, -1, -1):
+            pref_r[i] = pref_r[i + 1] + nums[i]
+
+        
         for i in range(n):
-            if total - (summ + nums[i]) == summ:
+            left_sum = pref_l[i - 1] if i > 0 else 0
+            right_sum = pref_r[i + 1] if i < n - 1 else 0
+            if left_sum == right_sum:
                 return i
-            else:
-                summ += nums[i]
+
         return -1

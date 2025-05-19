@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/dawit2-4/dawitA2SV/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dawit2-4/dawitA2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1610-xor-operation-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/1610-xor-operation-in-an-array) |
 | [1668-find-longest-awesome-substring](https://github.com/dawit2-4/dawitA2SV/tree/master/1668-find-longest-awesome-substring) |
 | [2478-longest-nice-subarray](https://github.com/dawit2-4/dawitA2SV/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dawit2-4/dawitA2SV/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1610-xor-operation-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/1610-xor-operation-in-an-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/dawit2-4/dawitA2SV/tree/master/2621-find-xor-beauty-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dawit2-4/dawitA2SV/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Interactive

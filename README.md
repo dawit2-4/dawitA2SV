@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1610-xor-operation-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/1610-xor-operation-in-an-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/dawit2-4/dawitA2SV/tree/master/2621-find-xor-beauty-of-array) |
+| [2752-sum-multiples](https://github.com/dawit2-4/dawitA2SV/tree/master/2752-sum-multiples) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dawit2-4/dawitA2SV/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3321-type-of-triangle](https://github.com/dawit2-4/dawitA2SV/tree/master/3321-type-of-triangle) |
 ## Interactive

@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dawit2-4/dawitA2SV/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1435-xor-queries-of-a-subarray](https://github.com/dawit2-4/dawitA2SV/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dawit2-4/dawitA2SV/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dawit2-4/dawitA2SV/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dawit2-4/dawitA2SV/tree/master/1706-min-cost-to-connect-all-points) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/dawit2-4/dawitA2SV/tree/master/0724-find-pivot-index) |
 | [1435-xor-queries-of-a-subarray](https://github.com/dawit2-4/dawitA2SV/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dawit2-4/dawitA2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dawit2-4/dawitA2SV/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3643-zero-array-transformation-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0219-contains-duplicate-ii) |
 | [0480-sliding-window-median](https://github.com/dawit2-4/dawitA2SV/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0594-longest-harmonious-subsequence) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dawit2-4/dawitA2SV/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2478-longest-nice-subarray](https://github.com/dawit2-4/dawitA2SV/tree/master/2478-longest-nice-subarray) |
 ## Minimum Spanning Tree
 |  |

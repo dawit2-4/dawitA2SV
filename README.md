@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/dawit2-4/dawitA2SV/tree/master/0455-assign-cookies) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/dawit2-4/dawitA2SV/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/dawit2-4/dawitA2SV/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/dawit2-4/dawitA2SV/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dawit2-4/dawitA2SV/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -217,11 +219,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/dawit2-4/dawitA2SV/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0542-01-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dawit2-4/dawitA2SV/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/dawit2-4/dawitA2SV/tree/master/0724-find-pivot-index) |
 | [1435-xor-queries-of-a-subarray](https://github.com/dawit2-4/dawitA2SV/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dawit2-4/dawitA2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/dawit2-4/dawitA2SV/tree/master/0455-assign-cookies) |
 | [1762-furthest-building-you-can-reach](https://github.com/dawit2-4/dawitA2SV/tree/master/1762-furthest-building-you-can-reach) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |

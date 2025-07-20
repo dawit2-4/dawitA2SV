@@ -4,6 +4,7 @@ class Solution:
         for node, neighbour in edges:
             graph[node].append(neighbour)
             graph[neighbour].append(node)
+        
         visited = set()
         count = 0
 
@@ -14,14 +15,14 @@ class Solution:
                     visited.add(child)
                     new_a = dfs(child)
                     arr.extend(new_a)
-            
+                
             return arr
-
-            
+        
         for i in range(n):
             if i not in visited:
                 visited.add(i)
                 nodes = dfs(i)
+
                 complete = True
                 for node in nodes:
                     if len(graph[node]) != len(nodes) - 1:
@@ -29,11 +30,4 @@ class Solution:
                         break
                 if complete:
                     count += 1
-
-                
         return count
-                        
-
-
-        
-        

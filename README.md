@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/dawit2-4/dawitA2SV/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/dawit2-4/dawitA2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2478-longest-nice-subarray](https://github.com/dawit2-4/dawitA2SV/tree/master/2478-longest-nice-subarray) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/dawit2-4/dawitA2SV/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/dawit2-4/dawitA2SV/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/dawit2-4/dawitA2SV/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dawit2-4/dawitA2SV/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dawit2-4/dawitA2SV/tree/master/1675-magnetic-force-between-two-balls) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/dawit2-4/dawitA2SV/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dawit2-4/dawitA2SV/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/3643-zero-array-transformation-ii) |
 ## Math
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0772-construct-quad-tree) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/dawit2-4/dawitA2SV/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/dawit2-4/dawitA2SV/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Graph
 |  |
 | ------- |
@@ -442,4 +446,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/dawit2-4/dawitA2SV/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/dawit2-4/dawitA2SV/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Segment Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/dawit2-4/dawitA2SV/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Ordered Set
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/dawit2-4/dawitA2SV/tree/master/2513-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->

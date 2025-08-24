@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/dawit2-4/dawitA2SV/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/dawit2-4/dawitA2SV/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/dawit2-4/dawitA2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dawit2-4/dawitA2SV/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2478-longest-nice-subarray](https://github.com/dawit2-4/dawitA2SV/tree/master/2478-longest-nice-subarray) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/dawit2-4/dawitA2SV/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dawit2-4/dawitA2SV/tree/master/1675-magnetic-force-between-two-balls) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dawit2-4/dawitA2SV/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3321-type-of-triangle](https://github.com/dawit2-4/dawitA2SV/tree/master/3321-type-of-triangle) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Hash Table
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/dawit2-4/dawitA2SV/tree/master/0455-assign-cookies) |
 | [1762-furthest-building-you-can-reach](https://github.com/dawit2-4/dawitA2SV/tree/master/1762-furthest-building-you-can-reach) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dawit2-4/dawitA2SV/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Topological Sort
@@ -481,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0206-reverse-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dawit2-4/dawitA2SV/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->

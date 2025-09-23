@@ -16,7 +16,14 @@ class Solution:
                 return False
             
 
-           
-            return rec(end - 1, summ+nums[end]) or rec(end - 1, summ)
+            #Take
+            cur = summ + nums[end]
+            take = rec(end - 1, cur)
+            if take:
+                return take
 
+            #Not Take
+            notTake = rec(end - 1, summ)
+
+            return notTake or take
         return rec(len(nums)-1, 0)

@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/dawit2-4/dawitA2SV/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dawit2-4/dawitA2SV/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/dawit2-4/dawitA2SV/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/dawit2-4/dawitA2SV/tree/master/0322-coin-change) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
 | [0463-island-perimeter](https://github.com/dawit2-4/dawitA2SV/tree/master/0463-island-perimeter) |

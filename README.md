@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dawit2-4/dawitA2SV/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/dawit2-4/dawitA2SV/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/dawit2-4/dawitA2SV/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0070-climbing-stairs) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/dawit2-4/dawitA2SV/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/dawit2-4/dawitA2SV/tree/master/0322-coin-change) |
@@ -530,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dawit2-4/dawitA2SV/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

@@ -1,19 +1,14 @@
 class Solution:
     def change(self, amount: int, coins: List[int]) -> int:
-        store = {}
-        def dp(i,summ):
-            if summ == amount:
-                return 1
-            if (i,summ) in store:
-                return store[(i,summ)]
-            if summ > amount or i == len(coins):
-                return 0
-            
-            take = dp(i, summ + coins[i])
-            skip = dp(i+1,summ)
-            store[(i,summ)] = take + skip
-            return store[(i, summ)]
-        return dp(0,0)
+        dp = [0] * (amount + 1)
+        dp[0] = 1
+
+        for coin in coins:
+            for i in range(amount+1):
+                remaining = i - coin
+                if remaining >= 0:
+                    dp[i] += dp[remaining]
+        return dp[-1]
 
 
         

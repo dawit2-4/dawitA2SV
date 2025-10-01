@@ -1,19 +1,19 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
         store = {}
-        def dp(i, amount):
+        def dp(i):
             if i >= len(nums):
                 return 0
-            if (i,amount) in store:
-                return store[(i, amount)]
+            if i in store:
+                return store[i]
             
             #take 
-            take = nums[i] + dp(i+2, amount + nums[i])
+            take = nums[i] + dp(i+2)
 
             #not take
-            notTake = dp(i+1, amount)
+            notTake = dp(i+1)
 
-            store[(i, amount)] = max(take, notTake)
+            store[i] = max(take, notTake)
 
-            return store[(i, amount)]
-        return dp(0, 0)      
+            return store[i]
+        return dp(0)      

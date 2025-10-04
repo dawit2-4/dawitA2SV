@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0772-construct-quad-tree) |
 | [0792-binary-search](https://github.com/dawit2-4/dawitA2SV/tree/master/0792-binary-search) |
 | [0881-loud-and-rich](https://github.com/dawit2-4/dawitA2SV/tree/master/0881-loud-and-rich) |
+| [0909-stone-game](https://github.com/dawit2-4/dawitA2SV/tree/master/0909-stone-game) |
 | [0945-snakes-and-ladders](https://github.com/dawit2-4/dawitA2SV/tree/master/0945-snakes-and-ladders) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dawit2-4/dawitA2SV/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/dawit2-4/dawitA2SV/tree/master/1036-rotting-oranges) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/dawit2-4/dawitA2SV/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
+| [0909-stone-game](https://github.com/dawit2-4/dawitA2SV/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1236-n-th-tribonacci-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dawit2-4/dawitA2SV/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0747-min-cost-climbing-stairs) |
+| [0909-stone-game](https://github.com/dawit2-4/dawitA2SV/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/1250-longest-common-subsequence) |
@@ -580,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/dawit2-4/dawitA2SV/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/dawit2-4/dawitA2SV/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/dawit2-4/dawitA2SV/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/dawit2-4/dawitA2SV/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/dawit2-4/dawitA2SV/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/dawit2-4/dawitA2SV/tree/master/0399-evaluate-division) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/dawit2-4/dawitA2SV/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/dawit2-4/dawitA2SV/tree/master/0279-perfect-squares) |
 | [0909-stone-game](https://github.com/dawit2-4/dawitA2SV/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1236-n-th-tribonacci-number) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dawit2-4/dawitA2SV/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/dawit2-4/dawitA2SV/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/dawit2-4/dawitA2SV/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/dawit2-4/dawitA2SV/tree/master/0322-coin-change) |

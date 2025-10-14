@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/dawit2-4/dawitA2SV/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/dawit2-4/dawitA2SV/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dawit2-4/dawitA2SV/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2621-find-xor-beauty-of-array](https://github.com/dawit2-4/dawitA2SV/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dawit2-4/dawitA2SV/tree/master/2665-minimum-time-to-repair-cars) |
 | [3321-type-of-triangle](https://github.com/dawit2-4/dawitA2SV/tree/master/3321-type-of-triangle) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1610-xor-operation-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/1610-xor-operation-in-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dawit2-4/dawitA2SV/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dawit2-4/dawitA2SV/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dawit2-4/dawitA2SV/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2621-find-xor-beauty-of-array](https://github.com/dawit2-4/dawitA2SV/tree/master/2621-find-xor-beauty-of-array) |
 | [2752-sum-multiples](https://github.com/dawit2-4/dawitA2SV/tree/master/2752-sum-multiples) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/dawit2-4/dawitA2SV/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/dawit2-4/dawitA2SV/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dawit2-4/dawitA2SV/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dawit2-4/dawitA2SV/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 ## Queue
 |  |
 | ------- |

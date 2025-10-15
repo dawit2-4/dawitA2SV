@@ -16,26 +16,20 @@ class WordDictionary:
         node.is_end = True
 
     def search(self, word: str) -> bool:
-        node = self
-        stack = [(node, 0)]
-        while stack:
-            node, i = stack.pop()
-
+        def dfs(node, i):
             if i == len(word):
-                if node.is_end:
-                    return True
-                continue
-            
-            w = word[i]
-            if w == ".":
+                return node.is_end
+            if word[i] == ".":
                 for child in node.children:
-                    if child:
-                        stack.append((child, i+1))
+                    if child and dfs(child, i+1):
+                        return True
+                return False
             else:
-                idx = self.char_to_index(w)
-                if node.children[idx]:
-                    stack.append((node.children[idx], i+1))
-        return False
+                idx = self.char_to_index(word[i])
+                if not node.children[idx]:
+                    return False
+                return dfs(node.children[idx], i+1)
+        return dfs(self, 0)
 
 
 

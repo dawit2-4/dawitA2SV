@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dawit2-4/dawitA2SV/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0310-minimum-height-trees](https://github.com/dawit2-4/dawitA2SV/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/dawit2-4/dawitA2SV/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/dawit2-4/dawitA2SV/tree/master/0399-evaluate-division) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/dawit2-4/dawitA2SV/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dawit2-4/dawitA2SV/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/dawit2-4/dawitA2SV/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0516-longest-palindromic-subsequence) |
 | [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dawit2-4/dawitA2SV/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1955-seat-reservation-manager](https://github.com/dawit2-4/dawitA2SV/tree/master/1955-seat-reservation-manager) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dawit2-4/dawitA2SV/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Game Theory
 |  |
 | ------- |

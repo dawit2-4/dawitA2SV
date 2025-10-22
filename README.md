@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/dawit2-4/dawitA2SV/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dawit2-4/dawitA2SV/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/dawit2-4/dawitA2SV/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/dawit2-4/dawitA2SV/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/dawit2-4/dawitA2SV/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |

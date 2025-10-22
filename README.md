@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/dawit2-4/dawitA2SV/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/dawit2-4/dawitA2SV/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/dawit2-4/dawitA2SV/tree/master/0051-n-queens) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/dawit2-4/dawitA2SV/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/dawit2-4/dawitA2SV/tree/master/0455-assign-cookies) |

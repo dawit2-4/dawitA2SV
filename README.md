@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/dawit2-4/dawitA2SV/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/dawit2-4/dawitA2SV/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/dawit2-4/dawitA2SV/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dawit2-4/dawitA2SV/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/dawit2-4/dawitA2SV/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/dawit2-4/dawitA2SV/tree/master/0871-keys-and-rooms) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/dawit2-4/dawitA2SV/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/dawit2-4/dawitA2SV/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/dawit2-4/dawitA2SV/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dawit2-4/dawitA2SV/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/dawit2-4/dawitA2SV/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/dawit2-4/dawitA2SV/tree/master/0871-keys-and-rooms) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/dawit2-4/dawitA2SV/tree/master/0480-sliding-window-median) |
+| [0744-network-delay-time](https://github.com/dawit2-4/dawitA2SV/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1762-furthest-building-you-can-reach](https://github.com/dawit2-4/dawitA2SV/tree/master/1762-furthest-building-you-can-reach) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/dawit2-4/dawitA2SV/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/dawit2-4/dawitA2SV/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/dawit2-4/dawitA2SV/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/dawit2-4/dawitA2SV/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dawit2-4/dawitA2SV/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/dawit2-4/dawitA2SV/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/dawit2-4/dawitA2SV/tree/master/0871-keys-and-rooms) |
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/dawit2-4/dawitA2SV/tree/master/0399-evaluate-division) |
+| [0744-network-delay-time](https://github.com/dawit2-4/dawitA2SV/tree/master/0744-network-delay-time) |
 ## Recursion
 |  |
 | ------- |

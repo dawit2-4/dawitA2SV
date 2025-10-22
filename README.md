@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dawit2-4/dawitA2SV/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dawit2-4/dawitA2SV/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/dawit2-4/dawitA2SV/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/dawit2-4/dawitA2SV/tree/master/0475-heaters) |

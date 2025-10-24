@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/dawit2-4/dawitA2SV/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/dawit2-4/dawitA2SV/tree/master/0204-count-primes) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/dawit2-4/dawitA2SV/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/dawit2-4/dawitA2SV/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/dawit2-4/dawitA2SV/tree/master/0093-restore-ip-addresses) |
+| [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/dawit2-4/dawitA2SV/tree/master/0800-letter-case-permutation) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/dawit2-4/dawitA2SV/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/dawit2-4/dawitA2SV/tree/master/0093-restore-ip-addresses) |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/dawit2-4/dawitA2SV/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/dawit2-4/dawitA2SV/tree/master/0399-evaluate-division) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dawit2-4/dawitA2SV/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/dawit2-4/dawitA2SV/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/dawit2-4/dawitA2SV/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0300-longest-increasing-subsequence) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dawit2-4/dawitA2SV/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0219-contains-duplicate-ii) |
@@ -663,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
@@ -673,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/dawit2-4/dawitA2SV/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/dawit2-4/dawitA2SV/tree/master/0648-replace-words) |

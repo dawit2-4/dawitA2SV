@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/dawit2-4/dawitA2SV/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/dawit2-4/dawitA2SV/tree/master/0377-combination-sum-iv) |
+| [0380-insert-delete-getrandom-o1](https://github.com/dawit2-4/dawitA2SV/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/dawit2-4/dawitA2SV/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/dawit2-4/dawitA2SV/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0410-split-array-largest-sum) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/dawit2-4/dawitA2SV/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/dawit2-4/dawitA2SV/tree/master/0279-perfect-squares) |
+| [0380-insert-delete-getrandom-o1](https://github.com/dawit2-4/dawitA2SV/tree/master/0380-insert-delete-getrandom-o1) |
 | [0909-stone-game](https://github.com/dawit2-4/dawitA2SV/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1236-n-th-tribonacci-number) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/dawit2-4/dawitA2SV/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/dawit2-4/dawitA2SV/tree/master/0480-sliding-window-median) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/dawit2-4/dawitA2SV/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/dawit2-4/dawitA2SV/tree/master/0380-insert-delete-getrandom-o1) |
 | [0677-map-sum-pairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0677-map-sum-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1955-seat-reservation-manager](https://github.com/dawit2-4/dawitA2SV/tree/master/1955-seat-reservation-manager) |
@@ -705,4 +709,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dawit2-4/dawitA2SV/tree/master/0042-trapping-rain-water) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/dawit2-4/dawitA2SV/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/dawit2-4/dawitA2SV/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/dawit2-4/dawitA2SV/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dawit2-4/dawitA2SV/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/dawit2-4/dawitA2SV/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/dawit2-4/dawitA2SV/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/dawit2-4/dawitA2SV/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/dawit2-4/dawitA2SV/tree/master/0881-loud-and-rich) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/dawit2-4/dawitA2SV/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/dawit2-4/dawitA2SV/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dawit2-4/dawitA2SV/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/dawit2-4/dawitA2SV/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/dawit2-4/dawitA2SV/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/dawit2-4/dawitA2SV/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/dawit2-4/dawitA2SV/tree/master/0922-possible-bipartition) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |
 | [0494-target-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/dawit2-4/dawitA2SV/tree/master/0800-letter-case-permutation) |
+| [0813-all-paths-from-source-to-target](https://github.com/dawit2-4/dawitA2SV/tree/master/0813-all-paths-from-source-to-target) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dawit2-4/dawitA2SV/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/dawit2-4/dawitA2SV/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/dawit2-4/dawitA2SV/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/dawit2-4/dawitA2SV/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/dawit2-4/dawitA2SV/tree/master/0801-is-graph-bipartite) |
+| [0813-all-paths-from-source-to-target](https://github.com/dawit2-4/dawitA2SV/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/dawit2-4/dawitA2SV/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/dawit2-4/dawitA2SV/tree/master/0871-keys-and-rooms) |
 | [0881-loud-and-rich](https://github.com/dawit2-4/dawitA2SV/tree/master/0881-loud-and-rich) |

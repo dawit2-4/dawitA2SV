@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/1250-longest-common-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dawit2-4/dawitA2SV/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1488-sort-integers-by-the-power-value](https://github.com/dawit2-4/dawitA2SV/tree/master/1488-sort-integers-by-the-power-value) |
 | [2262-solving-questions-with-brainpower](https://github.com/dawit2-4/dawitA2SV/tree/master/2262-solving-questions-with-brainpower) |
 ## Prefix Sum
 |  |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/dawit2-4/dawitA2SV/tree/master/1095-two-city-scheduling) |
 | [1272-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1272-invalid-transactions) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1488-sort-integers-by-the-power-value](https://github.com/dawit2-4/dawitA2SV/tree/master/1488-sort-integers-by-the-power-value) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dawit2-4/dawitA2SV/tree/master/1675-magnetic-force-between-two-balls) |
 | [1962-single-threaded-cpu](https://github.com/dawit2-4/dawitA2SV/tree/master/1962-single-threaded-cpu) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dawit2-4/dawitA2SV/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |
 | [1013-fibonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1236-n-th-tribonacci-number) |
+| [1488-sort-integers-by-the-power-value](https://github.com/dawit2-4/dawitA2SV/tree/master/1488-sort-integers-by-the-power-value) |
 ## Combinatorics
 |  |
 | ------- |

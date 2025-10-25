@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/dawit2-4/dawitA2SV/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/dawit2-4/dawitA2SV/tree/master/0744-network-delay-time) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/dawit2-4/dawitA2SV/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/dawit2-4/dawitA2SV/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/dawit2-4/dawitA2SV/tree/master/0820-find-eventual-safe-states) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0206-reverse-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -749,4 +751,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/dawit2-4/dawitA2SV/tree/master/0380-insert-delete-getrandom-o1) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->

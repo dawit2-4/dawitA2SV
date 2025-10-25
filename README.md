@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-find-longest-awesome-substring](https://github.com/dawit2-4/dawitA2SV/tree/master/1668-find-longest-awesome-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dawit2-4/dawitA2SV/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/dawit2-4/dawitA2SV/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dawit2-4/dawitA2SV/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1668-find-longest-awesome-substring](https://github.com/dawit2-4/dawitA2SV/tree/master/1668-find-longest-awesome-substring) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/dawit2-4/dawitA2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0594-longest-harmonious-subsequence) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dawit2-4/dawitA2SV/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dawit2-4/dawitA2SV/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Quickselect
 |  |
 | ------- |

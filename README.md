@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/dawit2-4/dawitA2SV/tree/master/1706-min-cost-to-connect-all-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/dawit2-4/dawitA2SV/tree/master/1762-furthest-building-you-can-reach) |
 | [1772-create-sorted-array-through-instructions](https://github.com/dawit2-4/dawitA2SV/tree/master/1772-create-sorted-array-through-instructions) |
+| [1775-design-an-ordered-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/1775-design-an-ordered-stream) |
 | [1839-decode-xored-array](https://github.com/dawit2-4/dawitA2SV/tree/master/1839-decode-xored-array) |
 | [1876-map-of-highest-peak](https://github.com/dawit2-4/dawitA2SV/tree/master/1876-map-of-highest-peak) |
 | [1962-single-threaded-cpu](https://github.com/dawit2-4/dawitA2SV/tree/master/1962-single-threaded-cpu) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dawit2-4/dawitA2SV/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1668-find-longest-awesome-substring](https://github.com/dawit2-4/dawitA2SV/tree/master/1668-find-longest-awesome-substring) |
+| [1775-design-an-ordered-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/1775-design-an-ordered-stream) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/dawit2-4/dawitA2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Divide and Conquer
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0677-map-sum-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1512-design-underground-system](https://github.com/dawit2-4/dawitA2SV/tree/master/1512-design-underground-system) |
+| [1775-design-an-ordered-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/1775-design-an-ordered-stream) |
 | [1955-seat-reservation-manager](https://github.com/dawit2-4/dawitA2SV/tree/master/1955-seat-reservation-manager) |
 ## Binary Search Tree
 |  |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1775-design-an-ordered-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/1775-design-an-ordered-stream) |
 ## Simulation
 |  |
 | ------- |

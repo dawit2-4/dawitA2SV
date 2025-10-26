@@ -14,20 +14,21 @@ class Solution:
     def flatten(self, head: 'Optional[Node]') -> 'Optional[Node]':
         if not head:
             return head
+        
         dummy = Node(None, None, head, None)
 
-        def dfs(prev, curr):
+        def dfs(curr, prev):
             if not curr:
                 return prev
             
-            curr.prev = prev
             prev.next = curr
+            curr.prev = prev
 
-            tnext = curr.next
-            tail = dfs(curr, curr.child)
-            curr.child = None
-            return dfs(tail, tnext)
-        dfs(dummy, head)
+            temp_next = curr.next
+            tail = dfs(curr.child, curr)
+            curr.child =None
+            return dfs(temp_next, tail)
+        dfs(head, dummy)
         dummy.next.prev = None
         return dummy.next
             

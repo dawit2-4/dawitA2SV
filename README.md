@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/dawit2-4/dawitA2SV/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0242-valid-anagram](https://github.com/dawit2-4/dawitA2SV/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/dawit2-4/dawitA2SV/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/dawit2-4/dawitA2SV/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0516-longest-palindromic-subsequence) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/dawit2-4/dawitA2SV/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/dawit2-4/dawitA2SV/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/dawit2-4/dawitA2SV/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dawit2-4/dawitA2SV/tree/master/0380-insert-delete-getrandom-o1) |

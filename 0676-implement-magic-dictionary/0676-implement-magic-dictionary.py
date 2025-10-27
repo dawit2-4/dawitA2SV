@@ -1,21 +1,23 @@
 class MagicDictionary:
 
     def __init__(self):
-        self.patterns = defaultdict(set)
+        self.dict = defaultdict(list)
 
     def buildDict(self, dictionary: List[str]) -> None:
-        for word  in dictionary:
-            for i in range(len(word)):
-                pattern = word[:i] + "*" + word[i+1:]
-                self.patterns[pattern].add(word)
+        for word in dictionary:
+            self.dict[len(word)].append(word)
 
     def search(self, searchWord: str) -> bool:
-        for i in range(len(searchWord)):
-            pattern = searchWord[:i] + "*" + searchWord[i+1:]
-            if pattern in self.patterns:
-                for child in self.patterns[pattern]:
-                    if child != searchWord:
-                        return True
+        for word in self.dict[len(searchWord)]:
+            change = 0
+            for i in range(len(searchWord)):
+                if word[i] != searchWord[i]:
+                    if change > 1:
+                        break
+                    else:
+                        change += 1
+            if change == 1:
+                return True
         return False
 
 

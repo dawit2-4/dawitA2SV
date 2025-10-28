@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/dawit2-4/dawitA2SV/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/dawit2-4/dawitA2SV/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/dawit2-4/dawitA2SV/tree/master/0648-replace-words) |
 | [0690-employee-importance](https://github.com/dawit2-4/dawitA2SV/tree/master/0690-employee-importance) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/dawit2-4/dawitA2SV/tree/master/0475-heaters) |
+| [0611-valid-triangle-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/dawit2-4/dawitA2SV/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dawit2-4/dawitA2SV/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/dawit2-4/dawitA2SV/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/dawit2-4/dawitA2SV/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/dawit2-4/dawitA2SV/tree/master/0475-heaters) |
 | [0594-longest-harmonious-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/dawit2-4/dawitA2SV/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/dawit2-4/dawitA2SV/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/dawit2-4/dawitA2SV/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/dawit2-4/dawitA2SV/tree/master/0475-heaters) |
+| [0611-valid-triangle-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0611-valid-triangle-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/dawit2-4/dawitA2SV/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dawit2-4/dawitA2SV/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1095-two-city-scheduling](https://github.com/dawit2-4/dawitA2SV/tree/master/1095-two-city-scheduling) |
 | [1762-furthest-building-you-can-reach](https://github.com/dawit2-4/dawitA2SV/tree/master/1762-furthest-building-you-can-reach) |

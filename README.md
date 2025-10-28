@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1272-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1272-invalid-transactions) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/dawit2-4/dawitA2SV/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dawit2-4/dawitA2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1512-design-underground-system](https://github.com/dawit2-4/dawitA2SV/tree/master/1512-design-underground-system) |
 | [1668-find-longest-awesome-substring](https://github.com/dawit2-4/dawitA2SV/tree/master/1668-find-longest-awesome-substring) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/dawit2-4/dawitA2SV/tree/master/1039-find-the-town-judge) |
 | [1272-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1272-invalid-transactions) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dawit2-4/dawitA2SV/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/dawit2-4/dawitA2SV/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dawit2-4/dawitA2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1512-design-underground-system](https://github.com/dawit2-4/dawitA2SV/tree/master/1512-design-underground-system) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0594-longest-harmonious-subsequence) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/dawit2-4/dawitA2SV/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dawit2-4/dawitA2SV/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dawit2-4/dawitA2SV/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/2532-remove-letter-to-equalize-frequency) |

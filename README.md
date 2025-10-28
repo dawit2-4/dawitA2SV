@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/dawit2-4/dawitA2SV/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dawit2-4/dawitA2SV/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1582-design-browser-history](https://github.com/dawit2-4/dawitA2SV/tree/master/1582-design-browser-history) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dawit2-4/dawitA2SV/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dawit2-4/dawitA2SV/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dawit2-4/dawitA2SV/tree/master/1706-min-cost-to-connect-all-points) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0206-reverse-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/dawit2-4/dawitA2SV/tree/master/1582-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/dawit2-4/dawitA2SV/tree/master/0394-decode-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1582-design-browser-history](https://github.com/dawit2-4/dawitA2SV/tree/master/1582-design-browser-history) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
 |  |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0677-map-sum-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1512-design-underground-system](https://github.com/dawit2-4/dawitA2SV/tree/master/1512-design-underground-system) |
+| [1582-design-browser-history](https://github.com/dawit2-4/dawitA2SV/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/1775-design-an-ordered-stream) |
 | [1955-seat-reservation-manager](https://github.com/dawit2-4/dawitA2SV/tree/master/1955-seat-reservation-manager) |
 ## Binary Search Tree
@@ -653,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/dawit2-4/dawitA2SV/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/1775-design-an-ordered-stream) |
 ## Simulation
 |  |
@@ -775,4 +780,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/dawit2-4/dawitA2SV/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->

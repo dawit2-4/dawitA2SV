@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/dawit2-4/dawitA2SV/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/dawit2-4/dawitA2SV/tree/master/0399-evaluate-division) |
 | [0516-longest-palindromic-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/dawit2-4/dawitA2SV/tree/master/0583-delete-operation-for-two-strings) |
 | [0648-replace-words](https://github.com/dawit2-4/dawitA2SV/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/dawit2-4/dawitA2SV/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0677-map-sum-pairs) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/dawit2-4/dawitA2SV/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/dawit2-4/dawitA2SV/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0747-min-cost-climbing-stairs) |
 | [0815-champagne-tower](https://github.com/dawit2-4/dawitA2SV/tree/master/0815-champagne-tower) |

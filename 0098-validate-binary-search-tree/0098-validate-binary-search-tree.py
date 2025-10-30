@@ -8,8 +8,6 @@ class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         ans = []
         def traverse(node):
-            if not node:
-                return 
             if node.left:
                 traverse(node.left)
             ans.append(node.val)

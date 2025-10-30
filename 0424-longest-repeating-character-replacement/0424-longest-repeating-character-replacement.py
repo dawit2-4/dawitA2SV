@@ -10,6 +10,7 @@ class Solution:
             while (i-j+1) - most_freq > k:
                 char_store[s[j]] -= 1
                 j += 1
+                most_freq = max(char_store.values())
             max_substring = max((i-j+1), max_substring)
         return max_substring
 

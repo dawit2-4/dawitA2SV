@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dawit2-4/dawitA2SV/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/dawit2-4/dawitA2SV/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0219-contains-duplicate-ii) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dawit2-4/dawitA2SV/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/dawit2-4/dawitA2SV/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0203-remove-linked-list-elements) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/dawit2-4/dawitA2SV/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/dawit2-4/dawitA2SV/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/dawit2-4/dawitA2SV/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -798,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/dawit2-4/dawitA2SV/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/dawit2-4/dawitA2SV/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->

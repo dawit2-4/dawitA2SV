@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0518-coin-change-ii) |
 | [0529-minesweeper](https://github.com/dawit2-4/dawitA2SV/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/dawit2-4/dawitA2SV/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/dawit2-4/dawitA2SV/tree/master/0645-set-mismatch) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/dawit2-4/dawitA2SV/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dawit2-4/dawitA2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/dawit2-4/dawitA2SV/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/dawit2-4/dawitA2SV/tree/master/0724-find-pivot-index) |
 | [1435-xor-queries-of-a-subarray](https://github.com/dawit2-4/dawitA2SV/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dawit2-4/dawitA2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0480-sliding-window-median](https://github.com/dawit2-4/dawitA2SV/tree/master/0480-sliding-window-median) |
+| [0560-subarray-sum-equals-k](https://github.com/dawit2-4/dawitA2SV/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/dawit2-4/dawitA2SV/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/dawit2-4/dawitA2SV/tree/master/0648-replace-words) |

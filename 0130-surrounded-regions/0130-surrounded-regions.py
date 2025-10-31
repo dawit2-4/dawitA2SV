@@ -3,38 +3,41 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+        queue = deque()
+        rows = len(board)
+        cols = len(board[0])
+        visited = set()
+        directions = ((1,0),(-1,0),(0,1),(0,-1))
+        def inbound(i,j):
+            return 0 <= i < rows and 0 <= j < cols
 
-        def inbound(row, col):
-            return 0 <= row < len(board) and 0 <= col < len(board[0])
 
-        def dfs(row, col):
-            # Mark the 'O' connected to the boundary with a temporary marker
-            if not inbound(row, col) or board[row][col] != 'O':
-                return
-            board[row][col] = 'E' 
-            for d in directions:
-                new_r = row + d[0]
-                new_c = col + d[1]
-                dfs(new_r, new_c)
-        #step 1 change the "O"s on the boarder to "E"
-        for i in range(len(board)):
-            for j in [0, len(board[0])-1]:
-                if board[i][j] == "O":
-                    dfs(i,j)
-        for j in range(len(board[0])):
-            for i in [0, len(board) -1 ]:
-                if board[i][j] == "O":
-                    dfs(i,j)
+        for i in range(rows):
+            if board[i][0] == 'O':
+                queue.append((i,0))
+                
+            if board[i][cols-1] == 'O':
+                queue.append((i, cols-1))
+        for j in range(cols):
+            if board[0][j] == 'O':
+                queue.append((0,j))
+            if board[rows-1][j] == 'O':
+                queue.append((rows-1, j))
         
-        # step 2 change the "O"s that are surrounded in to "X"
-        for i in range(len(board)):
-            for j in range(len(board[0])):
-                if board[i][j] == "O":
-                    board[i][j] = "X"
-        # step 3 change the "E"s at the boarder into "O"
-        for i in range(len(board)):
-            for j in range(len(board[0])):
-                if board[i][j] == "E":
-                    board[i][j] = "O"
-    
+        while queue:
+            n = len(queue)
+            for _ in range(n):
+                i, j = queue.popleft()
+                visited.add((i,j))
+                for dx, dy in directions:
+                    new_r, new_c = i + dx, j + dy
+                    if inbound(new_r, new_c) and board[new_r][new_c] == 'O' and (new_r, new_c) not in visited:
+                        queue.append((new_r, new_c))
+                        visited.add((new_r, new_c))
+
+        # print(visited)
+        for i in range(rows):
+            for j in range(cols):
+                if (i,j) not in visited and board[i][j] == 'O':
+                    board[i][j] = 'X'
+        return board

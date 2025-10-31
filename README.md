@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/dawit2-4/dawitA2SV/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/dawit2-4/dawitA2SV/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0300-longest-increasing-subsequence) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/dawit2-4/dawitA2SV/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/dawit2-4/dawitA2SV/tree/master/0278-first-bad-version) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0772-construct-quad-tree) |
 | [1772-create-sorted-array-through-instructions](https://github.com/dawit2-4/dawitA2SV/tree/master/1772-create-sorted-array-through-instructions) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dawit2-4/dawitA2SV/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/dawit2-4/dawitA2SV/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dawit2-4/dawitA2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/dawit2-4/dawitA2SV/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/dawit2-4/dawitA2SV/tree/master/0529-minesweeper) |

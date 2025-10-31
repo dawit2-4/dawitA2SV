@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dawit2-4/dawitA2SV/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/dawit2-4/dawitA2SV/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/dawit2-4/dawitA2SV/tree/master/0337-house-robber-iii) |
 | [0690-employee-importance](https://github.com/dawit2-4/dawitA2SV/tree/master/0690-employee-importance) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/dawit2-4/dawitA2SV/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/dawit2-4/dawitA2SV/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/dawit2-4/dawitA2SV/tree/master/0200-number-of-islands) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/dawit2-4/dawitA2SV/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/dawit2-4/dawitA2SV/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/dawit2-4/dawitA2SV/tree/master/0200-number-of-islands) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dawit2-4/dawitA2SV/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0112-path-sum) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/dawit2-4/dawitA2SV/tree/master/0199-binary-tree-right-side-view) |
 | [0337-house-robber-iii](https://github.com/dawit2-4/dawitA2SV/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dawit2-4/dawitA2SV/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0023-merge-k-sorted-lists) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/dawit2-4/dawitA2SV/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0160-intersection-of-two-linked-lists) |

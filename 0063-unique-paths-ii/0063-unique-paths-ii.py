@@ -1,32 +1,23 @@
 class Solution:
     def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
-        m, n = len(obstacleGrid[0]), len(obstacleGrid)
-        dp = [[0] * m for _ in range(n)]
+        memo = {}
+        rows, cols = len(obstacleGrid), len(obstacleGrid[0])
+        def dp(r,c):
+            if r ==rows  or c == cols:
+                return 0
+            if r == rows-1 and c == cols-1:
+                if obstacleGrid[r][c] == 0:
+                    return 1
+                return 0
+            if obstacleGrid[r][c] == 1:
+                return 0
 
-        if obstacleGrid[n-1][m-1] == 1:
-            return 0
-        dp[n-1][m-1] = 1
+            if (r,c) in memo:
+                return memo[(r,c)]
+            
+            down = dp(r+1,c)
+            right = dp(r,c+1)
 
-        # bottom row
-        for j in range(m-2, -1, -1):
-            if obstacleGrid[n-1][j] == 1:
-                dp[n-1][j] = 0
-            else:
-                dp[n-1][j] = dp[n-1][j+1]
-
-        # rightmost column
-        for i in range(n-2, -1, -1):
-            if obstacleGrid[i][m-1] == 1:
-                dp[i][m-1] = 0
-            else:
-                dp[i][m-1] = dp[i+1][m-1]
-
-        # fill rest of grid
-        for i in range(n-2, -1, -1):
-            for j in range(m-2, -1, -1):
-                if obstacleGrid[i][j] == 1:
-                    dp[i][j] = 0
-                else:
-                    dp[i][j] = dp[i+1][j] + dp[i][j+1]
-
-        return dp[0][0]
+            memo[(r,c)] = down + right
+            return memo[(r,c)]
+        return dp(0,0)

@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-design-an-ordered-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/1775-design-an-ordered-stream) |
 | [1839-decode-xored-array](https://github.com/dawit2-4/dawitA2SV/tree/master/1839-decode-xored-array) |
 | [1876-map-of-highest-peak](https://github.com/dawit2-4/dawitA2SV/tree/master/1876-map-of-highest-peak) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/dawit2-4/dawitA2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1962-single-threaded-cpu](https://github.com/dawit2-4/dawitA2SV/tree/master/1962-single-threaded-cpu) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/dawit2-4/dawitA2SV/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/dawit2-4/dawitA2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1236-n-th-tribonacci-number) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1610-xor-operation-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/1610-xor-operation-in-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/dawit2-4/dawitA2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dawit2-4/dawitA2SV/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dawit2-4/dawitA2SV/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dawit2-4/dawitA2SV/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/dawit2-4/dawitA2SV/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/dawit2-4/dawitA2SV/tree/master/0258-add-digits) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/dawit2-4/dawitA2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Sliding Window
 |  |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dawit2-4/dawitA2SV/tree/master/0387-first-unique-character-in-a-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/dawit2-4/dawitA2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/dawit2-4/dawitA2SV/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
@@ -791,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/dawit2-4/dawitA2SV/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/dawit2-4/dawitA2SV/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/dawit2-4/dawitA2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting Sort
 |  |
 | ------- |

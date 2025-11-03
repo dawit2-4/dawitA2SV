@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dawit2-4/dawitA2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dawit2-4/dawitA2SV/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/dawit2-4/dawitA2SV/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/dawit2-4/dawitA2SV/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/dawit2-4/dawitA2SV/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/dawit2-4/dawitA2SV/tree/master/0204-count-primes) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/dawit2-4/dawitA2SV/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/dawit2-4/dawitA2SV/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/dawit2-4/dawitA2SV/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/dawit2-4/dawitA2SV/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/dawit2-4/dawitA2SV/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/dawit2-4/dawitA2SV/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0219-contains-duplicate-ii) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/dawit2-4/dawitA2SV/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0772-construct-quad-tree) |
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dawit2-4/dawitA2SV/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/dawit2-4/dawitA2SV/tree/master/0387-first-unique-character-in-a-string) |

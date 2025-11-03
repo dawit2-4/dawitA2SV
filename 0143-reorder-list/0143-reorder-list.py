@@ -8,22 +8,23 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        store = []
-        curr = head
-        while curr:
-            store.append(curr.val)
-            curr = curr.next
-        print(store)
-        i, j = 0, len(store) - 1
-        curr = head
-        while i <= j:
-            if curr:
-                curr.val = store[i]
-                curr = curr.next
-            i += 1
-            
-            if curr:
-                curr.val = store[j]
-                curr= curr.next
-            j -= 1
-        return head
+        fast = slow = head
+        while fast and fast.next:
+            fast = fast.next.next
+            slow = slow.next
+        
+        second = slow.next
+        first = head
+        prev = slow.next = None
+        while second:
+            temp = second.next
+            second.next = prev
+            prev = second
+            second = temp
+        
+        second = prev
+        while second:
+            temp1, temp2 = first.next, second.next
+            first.next = second
+            second.next = temp1
+            first , second = temp1, temp2

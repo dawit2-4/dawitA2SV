@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/dawit2-4/dawitA2SV/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/dawit2-4/dawitA2SV/tree/master/0813-all-paths-from-source-to-target) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/dawit2-4/dawitA2SV/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/dawit2-4/dawitA2SV/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/dawit2-4/dawitA2SV/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/dawit2-4/dawitA2SV/tree/master/1610-xor-operation-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/dawit2-4/dawitA2SV/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dawit2-4/dawitA2SV/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/dawit2-4/dawitA2SV/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dawit2-4/dawitA2SV/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dawit2-4/dawitA2SV/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2621-find-xor-beauty-of-array](https://github.com/dawit2-4/dawitA2SV/tree/master/2621-find-xor-beauty-of-array) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-find-longest-awesome-substring](https://github.com/dawit2-4/dawitA2SV/tree/master/1668-find-longest-awesome-substring) |
 | [1775-design-an-ordered-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/1775-design-an-ordered-stream) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/dawit2-4/dawitA2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/dawit2-4/dawitA2SV/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [4055-longest-balanced-substring-i](https://github.com/dawit2-4/dawitA2SV/tree/master/4055-longest-balanced-substring-i) |
 ## Divide and Conquer
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0594-longest-harmonious-subsequence) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/dawit2-4/dawitA2SV/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dawit2-4/dawitA2SV/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/dawit2-4/dawitA2SV/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dawit2-4/dawitA2SV/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [4055-longest-balanced-substring-i](https://github.com/dawit2-4/dawitA2SV/tree/master/4055-longest-balanced-substring-i) |
@@ -850,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dawit2-4/dawitA2SV/tree/master/0204-count-primes) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/dawit2-4/dawitA2SV/tree/master/2174-next-greater-numerically-balanced-number) |
 | [4055-longest-balanced-substring-i](https://github.com/dawit2-4/dawitA2SV/tree/master/4055-longest-balanced-substring-i) |
 ## String Matching
 |  |

@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dawit2-4/dawitA2SV/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0023-merge-k-sorted-lists) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0143-reorder-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/dawit2-4/dawitA2SV/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0160-intersection-of-two-linked-lists) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dawit2-4/dawitA2SV/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dawit2-4/dawitA2SV/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/dawit2-4/dawitA2SV/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0295-find-median-from-data-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0295-find-median-from-data-stream) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dawit2-4/dawitA2SV/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dawit2-4/dawitA2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/dawit2-4/dawitA2SV/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/dawit2-4/dawitA2SV/tree/master/0394-decode-string) |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dawit2-4/dawitA2SV/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/dawit2-4/dawitA2SV/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/dawit2-4/dawitA2SV/tree/master/0394-decode-string) |

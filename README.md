@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/dawit2-4/dawitA2SV/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/dawit2-4/dawitA2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/dawit2-4/dawitA2SV/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/dawit2-4/dawitA2SV/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/dawit2-4/dawitA2SV/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/dawit2-4/dawitA2SV/tree/master/0475-heaters) |

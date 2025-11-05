@@ -8,12 +8,13 @@ class Solution:
         paths = []
         def dfs(node, path):
             if node == len(graphs) - 1:
-                path.append(node)
                 paths.append(path[:])
-                return 
+                return
             
             for child in graph[node]:
-                dfs(child, path+[node])
-            return
-        dfs(0,[])
+                path.append(child)
+                dfs(child, path)
+                path.pop()
+            
+        dfs(0, [0])
         return paths

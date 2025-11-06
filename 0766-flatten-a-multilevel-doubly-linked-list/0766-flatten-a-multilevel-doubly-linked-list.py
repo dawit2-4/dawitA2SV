@@ -1,4 +1,3 @@
-"""
 # Definition for a Node.
 class Node:
     def __init__(self, val, prev, next, child):
@@ -6,29 +5,27 @@ class Node:
         self.prev = prev
         self.next = next
         self.child = child
-"""
-from typing import Optional
-
-
 class Solution:
     def flatten(self, head: 'Optional[Node]') -> 'Optional[Node]':
         if not head:
             return head
-        
-        dummy = Node(None, None, head, None)
+        stack = [head] # node
+        dummy = Node(0, None, None, None)
+        current = dummy
 
-        def dfs(curr, prev):
-            if not curr:
-                return prev
-            
-            prev.next = curr
-            curr.prev = prev
+        # iterate over our linked list until the stack is empty
+        while stack:
+            node = stack.pop()
 
-            temp_next = curr.next
-            tail = dfs(curr.child, curr)
-            curr.child =None
-            return dfs(temp_next, tail)
-        dfs(head, dummy)
+            current.next = node
+            node.prev = current
+            if node.next:
+                stack.append(node.next)
+            if node.child:
+                stack.append(node.child)
+
+            node.child = None
+            current = current.next
         dummy.next.prev = None
         return dummy.next
-            
+        

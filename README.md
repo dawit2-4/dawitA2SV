@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/dawit2-4/dawitA2SV/tree/master/2050-count-good-numbers) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/dawit2-4/dawitA2SV/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dawit2-4/dawitA2SV/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2187-vowels-of-all-substrings](https://github.com/dawit2-4/dawitA2SV/tree/master/2187-vowels-of-all-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dawit2-4/dawitA2SV/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dawit2-4/dawitA2SV/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dawit2-4/dawitA2SV/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-design-underground-system](https://github.com/dawit2-4/dawitA2SV/tree/master/1512-design-underground-system) |
 | [1668-find-longest-awesome-substring](https://github.com/dawit2-4/dawitA2SV/tree/master/1668-find-longest-awesome-substring) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2187-vowels-of-all-substrings](https://github.com/dawit2-4/dawitA2SV/tree/master/2187-vowels-of-all-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dawit2-4/dawitA2SV/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dawit2-4/dawitA2SV/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/1250-longest-common-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dawit2-4/dawitA2SV/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1488-sort-integers-by-the-power-value](https://github.com/dawit2-4/dawitA2SV/tree/master/1488-sort-integers-by-the-power-value) |
+| [2187-vowels-of-all-substrings](https://github.com/dawit2-4/dawitA2SV/tree/master/2187-vowels-of-all-substrings) |
 | [2262-solving-questions-with-brainpower](https://github.com/dawit2-4/dawitA2SV/tree/master/2262-solving-questions-with-brainpower) |
 ## Prefix Sum
 |  |
@@ -863,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dawit2-4/dawitA2SV/tree/master/0062-unique-paths) |
+| [2187-vowels-of-all-substrings](https://github.com/dawit2-4/dawitA2SV/tree/master/2187-vowels-of-all-substrings) |
 ## Trie
 |  |
 | ------- |

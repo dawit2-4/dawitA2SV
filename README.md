@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/dawit2-4/dawitA2SV/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2187-vowels-of-all-substrings](https://github.com/dawit2-4/dawitA2SV/tree/master/2187-vowels-of-all-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dawit2-4/dawitA2SV/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/dawit2-4/dawitA2SV/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dawit2-4/dawitA2SV/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/dawit2-4/dawitA2SV/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2621-find-xor-beauty-of-array](https://github.com/dawit2-4/dawitA2SV/tree/master/2621-find-xor-beauty-of-array) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-sort-integers-by-the-power-value](https://github.com/dawit2-4/dawitA2SV/tree/master/1488-sort-integers-by-the-power-value) |
 | [2187-vowels-of-all-substrings](https://github.com/dawit2-4/dawitA2SV/tree/master/2187-vowels-of-all-substrings) |
 | [2262-solving-questions-with-brainpower](https://github.com/dawit2-4/dawitA2SV/tree/master/2262-solving-questions-with-brainpower) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/dawit2-4/dawitA2SV/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/dawit2-4/dawitA2SV/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/dawit2-4/dawitA2SV/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2187-vowels-of-all-substrings](https://github.com/dawit2-4/dawitA2SV/tree/master/2187-vowels-of-all-substrings) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/dawit2-4/dawitA2SV/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Trie
 |  |
 | ------- |

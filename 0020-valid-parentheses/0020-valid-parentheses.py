@@ -1,14 +1,19 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        hash_set = { ")" : "(", "]" : "[", "}" : "{"}
+        closing = {"]":"[", "}":"{", ")":"("}
         stack = []
 
-        for i in range(len(s)):
-            if s[i] in hash_set:
-                if stack and stack[-1] == hash_set[s[i]]:
-                    stack.pop()
+        for c in s:
+            if c not in closing:
+                stack.append(c)
+            else:
+                if stack:
+                    opening = stack.pop()
+                    if closing[c] != opening:
+                        return False
                 else:
                     return False
-            else:
-                stack.append(s[i])
         return not stack
+                    
+
+        

@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2187-vowels-of-all-substrings](https://github.com/dawit2-4/dawitA2SV/tree/master/2187-vowels-of-all-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/dawit2-4/dawitA2SV/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/dawit2-4/dawitA2SV/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dawit2-4/dawitA2SV/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/dawit2-4/dawitA2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2169-simple-bank-system](https://github.com/dawit2-4/dawitA2SV/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dawit2-4/dawitA2SV/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [4055-longest-balanced-substring-i](https://github.com/dawit2-4/dawitA2SV/tree/master/4055-longest-balanced-substring-i) |
 ## Divide and Conquer
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/dawit2-4/dawitA2SV/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dawit2-4/dawitA2SV/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/dawit2-4/dawitA2SV/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/dawit2-4/dawitA2SV/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [4055-longest-balanced-substring-i](https://github.com/dawit2-4/dawitA2SV/tree/master/4055-longest-balanced-substring-i) |

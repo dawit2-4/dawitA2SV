@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/dawit2-4/dawitA2SV/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/dawit2-4/dawitA2SV/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-two-city-scheduling](https://github.com/dawit2-4/dawitA2SV/tree/master/1095-two-city-scheduling) |
+| [1169-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1169-invalid-transactions) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1272-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1272-invalid-transactions) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dawit2-4/dawitA2SV/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/dawit2-4/dawitA2SV/tree/master/0869-similar-string-groups) |
 | [1032-satisfiability-of-equality-equations](https://github.com/dawit2-4/dawitA2SV/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/dawit2-4/dawitA2SV/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1169-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1169-invalid-transactions) |
 | [1250-longest-common-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/1250-longest-common-subsequence) |
 | [1272-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1272-invalid-transactions) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1095-two-city-scheduling](https://github.com/dawit2-4/dawitA2SV/tree/master/1095-two-city-scheduling) |
+| [1169-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1169-invalid-transactions) |
 | [1272-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1272-invalid-transactions) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1488-sort-integers-by-the-power-value](https://github.com/dawit2-4/dawitA2SV/tree/master/1488-sort-integers-by-the-power-value) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dawit2-4/dawitA2SV/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/dawit2-4/dawitA2SV/tree/master/1039-find-the-town-judge) |
+| [1169-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1169-invalid-transactions) |
 | [1272-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1272-invalid-transactions) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dawit2-4/dawitA2SV/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/dawit2-4/dawitA2SV/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |

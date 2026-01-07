@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/dawit2-4/dawitA2SV/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/dawit2-4/dawitA2SV/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/dawit2-4/dawitA2SV/tree/master/0399-evaluate-division) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0463-island-perimeter](https://github.com/dawit2-4/dawitA2SV/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/dawit2-4/dawitA2SV/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/dawit2-4/dawitA2SV/tree/master/0547-number-of-provinces) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/dawit2-4/dawitA2SV/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/dawit2-4/dawitA2SV/tree/master/1582-design-browser-history) |
 ## Two Pointers
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/dawit2-4/dawitA2SV/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/dawit2-4/dawitA2SV/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->

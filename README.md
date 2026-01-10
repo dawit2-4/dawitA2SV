@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dawit2-4/dawitA2SV/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/dawit2-4/dawitA2SV/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/dawit2-4/dawitA2SV/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/dawit2-4/dawitA2SV/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/dawit2-4/dawitA2SV/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/dawit2-4/dawitA2SV/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0063-unique-paths-ii) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dawit2-4/dawitA2SV/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/dawit2-4/dawitA2SV/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dawit2-4/dawitA2SV/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/dawit2-4/dawitA2SV/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/dawit2-4/dawitA2SV/tree/master/0079-word-search) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dawit2-4/dawitA2SV/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dawit2-4/dawitA2SV/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/dawit2-4/dawitA2SV/tree/master/0169-majority-element) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dawit2-4/dawitA2SV/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dawit2-4/dawitA2SV/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/dawit2-4/dawitA2SV/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/dawit2-4/dawitA2SV/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |

@@ -1,7 +1,19 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        sign = -1 if x < 0 else 1
-        rev = int(str(abs(x))[::-1]) * sign
-        if rev  < -2 ** 31 or rev > 2 ** 31 - 1:
+        number_reversed = 0
+        original_number = x
+        sign = False
+        if x < 0:
+            sign = True
+        x = abs(x)
+        
+        while x > 0:
+            remain = x % 10
+            x = x // 10
+            number_reversed *= 10
+            number_reversed += remain
+        if number_reversed > (2 ** 31) - 1 or number_reversed < -(2 ** 31):
             return 0
-        return rev
+        if sign:
+            return -number_reversed
+        return number_reversed

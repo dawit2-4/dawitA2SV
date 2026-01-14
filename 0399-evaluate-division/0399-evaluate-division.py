@@ -1,29 +1,29 @@
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
-        graph = defaultdict(list) #(start -> (end, 3.00) and end -> (start, 1/3.00))
-        for i, node in enumerate(equations):
-            graph[node[0]].append((node[1], values[i]))
-            graph[node[1]].append((node[0], 1/values[i]))
+        graph = defaultdict(list)
+
+        for idx, (nom, den) in enumerate(equations):
+            graph[nom].append((den, values[idx]))
+            graph[den].append((nom, 1/values[idx]))
         
-        # flag = True
-        def dfs(node, target,  visited):
-            if node == target:
-                return 1.000
-            for child in graph[node]:
-                (next, val) = child
-                if (next, val) not in visited:
-                    visited.add((next, val))
-                    res = dfs(next, target, visited)
+        def dfs(nom, den, visited):
+            if nom == den:
+                return 1.0
+                
+            visited.add(nom)
+            for neigh, weight in graph[nom]:
+                if neigh not in visited:
+                    res = dfs(neigh, den, visited)
+                    if res != -1.0:
+                        return res * weight
 
-                    if res != -1:
-                        return val * res
-
-            return -1.00
+            return -1.0
+        
         ans = []
-        for s, e in queries:
-            if s not in graph or e not in graph:
-                ans.append(-1.0000)
+        for a, b in queries:
+            if a not in graph or b not in graph:
+                ans.append(-1.0)
             else:
-                ans.append(dfs(s, e, set()))
+                ans.append(dfs(a, b, set()))
+        
         return ans
-                 

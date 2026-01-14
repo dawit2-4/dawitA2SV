@@ -1,29 +1,27 @@
 class Solution:
     def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
         graph = defaultdict(list)
+        for i, (start, end) in enumerate(equations):
+            graph[start].append((end, values[i]))
+            graph[end].append((start, 1 / values[i]))
+        
+        def dfs(node, visited, end):
+            if node == end:
+                return 1.00
+            visited.add(node)
 
-        for idx, (nom, den) in enumerate(equations):
-            graph[nom].append((den, values[idx]))
-            graph[den].append((nom, 1/values[idx]))
-        
-        def dfs(nom, den, visited):
-            if nom == den:
-                return 1.0
-                
-            visited.add(nom)
-            for neigh, weight in graph[nom]:
-                if neigh not in visited:
-                    res = dfs(neigh, den, visited)
-                    if res != -1.0:
-                        return res * weight
-
-            return -1.0
-        
-        ans = []
-        for a, b in queries:
-            if a not in graph or b not in graph:
-                ans.append(-1.0)
-            else:
-                ans.append(dfs(a, b, set()))
-        
-        return ans
+            for neighbour, value in graph[node]:
+                if neighbour not in visited:
+                    result = dfs(neighbour, visited, end)
+                    if result != -1.00:
+                        return result * value
+            
+            return -1.00
+        answer = []
+        for start, end in queries:
+            if start not in graph:
+                answer.append(-1.00)
+                continue
+            result = dfs(start, set(), end)
+            answer.append(result)
+        return answer

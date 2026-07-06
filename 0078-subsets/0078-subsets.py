@@ -1,15 +1,16 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        ans = []
-
-        def backtrack(i, arr):
-            if i == len(nums):
-                ans.append(arr[:])
+        ans = [[]]
+       
+        def dp(i, temp):
+            nonlocal ans
+            if i >= len(nums):
                 return
-
-            arr.append(nums[i])
-            backtrack(i+1, arr)
-            arr.pop()
-            backtrack(i+1, arr)
-        backtrack(0, [])
+            temp.append(nums[i])
+            ans.append(temp[:])
+            
+            dp(i+1, temp)
+            temp.pop()
+            dp(i+1, temp)
+        dp(0, [])
         return ans

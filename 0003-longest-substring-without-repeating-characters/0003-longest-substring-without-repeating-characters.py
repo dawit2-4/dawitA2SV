@@ -1,14 +1,14 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        hash_set = defaultdict(int)
-        l = 0 
-        r = 0
-        max_count = 0
-        while r <len(s):
-            hash_set[s[r]] += 1
-            while hash_set[s[r]] > 1 and l <= r:
-                hash_set[s[l]] -= 1
-                l += 1
-            max_count =max(max_count, r-l+1)
-            r += 1
-        return max_count
+        count = defaultdict(int)
+        left = 0
+        longest = 0
+        for right in range(len(s)):
+            count[s[right]] += 1
+            while count[s[right]] > 1 and left <= right:
+                count[s[left]] -= 1
+                left += 1
+            longest = max(longest, right - left + 1)
+        return longest
+
+        

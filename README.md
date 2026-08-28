@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/dawit2-4/dawitA2SV/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dawit2-4/dawitA2SV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/dawit2-4/dawitA2SV/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/dawit2-4/dawitA2SV/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dawit2-4/dawitA2SV/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dawit2-4/dawitA2SV/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/dawit2-4/dawitA2SV/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/dawit2-4/dawitA2SV/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/dawit2-4/dawitA2SV/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0140-word-break-ii) |
@@ -934,4 +936,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/dawit2-4/dawitA2SV/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/dawit2-4/dawitA2SV/tree/master/1582-design-browser-history) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

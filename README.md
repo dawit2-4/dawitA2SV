@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/dawit2-4/dawitA2SV/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2621-find-xor-beauty-of-array](https://github.com/dawit2-4/dawitA2SV/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/dawit2-4/dawitA2SV/tree/master/2665-minimum-time-to-repair-cars) |
+| [3169-count-days-without-meetings](https://github.com/dawit2-4/dawitA2SV/tree/master/3169-count-days-without-meetings) |
 | [3321-type-of-triangle](https://github.com/dawit2-4/dawitA2SV/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/dawit2-4/dawitA2SV/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/dawit2-4/dawitA2SV/tree/master/1675-magnetic-force-between-two-balls) |
 | [1962-single-threaded-cpu](https://github.com/dawit2-4/dawitA2SV/tree/master/1962-single-threaded-cpu) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dawit2-4/dawitA2SV/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3169-count-days-without-meetings](https://github.com/dawit2-4/dawitA2SV/tree/master/3169-count-days-without-meetings) |
 | [3321-type-of-triangle](https://github.com/dawit2-4/dawitA2SV/tree/master/3321-type-of-triangle) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/dawit2-4/dawitA2SV/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Hash Table

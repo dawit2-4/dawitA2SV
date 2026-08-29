@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/dawit2-4/dawitA2SV/tree/master/1582-design-browser-history) |
 | [1612-avoid-flood-in-the-city](https://github.com/dawit2-4/dawitA2SV/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dawit2-4/dawitA2SV/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dawit2-4/dawitA2SV/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/dawit2-4/dawitA2SV/tree/master/1706-min-cost-to-connect-all-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/dawit2-4/dawitA2SV/tree/master/1762-furthest-building-you-can-reach) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1272-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1272-invalid-transactions) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/dawit2-4/dawitA2SV/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1488-sort-integers-by-the-power-value](https://github.com/dawit2-4/dawitA2SV/tree/master/1488-sort-integers-by-the-power-value) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1675-magnetic-force-between-two-balls](https://github.com/dawit2-4/dawitA2SV/tree/master/1675-magnetic-force-between-two-balls) |
 | [1962-single-threaded-cpu](https://github.com/dawit2-4/dawitA2SV/tree/master/1962-single-threaded-cpu) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/dawit2-4/dawitA2SV/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/dawit2-4/dawitA2SV/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1612-avoid-flood-in-the-city](https://github.com/dawit2-4/dawitA2SV/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/dawit2-4/dawitA2SV/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/dawit2-4/dawitA2SV/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1668-find-longest-awesome-substring](https://github.com/dawit2-4/dawitA2SV/tree/master/1668-find-longest-awesome-substring) |
 | [1775-design-an-ordered-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/1775-design-an-ordered-stream) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/dawit2-4/dawitA2SV/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |

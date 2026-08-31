@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1272-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1272-invalid-transactions) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/dawit2-4/dawitA2SV/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1396-design-underground-system](https://github.com/dawit2-4/dawitA2SV/tree/master/1396-design-underground-system) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/dawit2-4/dawitA2SV/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dawit2-4/dawitA2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1512-design-underground-system](https://github.com/dawit2-4/dawitA2SV/tree/master/1512-design-underground-system) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1169-invalid-transactions) |
 | [1272-invalid-transactions](https://github.com/dawit2-4/dawitA2SV/tree/master/1272-invalid-transactions) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/dawit2-4/dawitA2SV/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1396-design-underground-system](https://github.com/dawit2-4/dawitA2SV/tree/master/1396-design-underground-system) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/dawit2-4/dawitA2SV/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dawit2-4/dawitA2SV/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1512-design-underground-system](https://github.com/dawit2-4/dawitA2SV/tree/master/1512-design-underground-system) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/dawit2-4/dawitA2SV/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/dawit2-4/dawitA2SV/tree/master/0677-map-sum-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1396-design-underground-system](https://github.com/dawit2-4/dawitA2SV/tree/master/1396-design-underground-system) |
 | [1512-design-underground-system](https://github.com/dawit2-4/dawitA2SV/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/dawit2-4/dawitA2SV/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/1775-design-an-ordered-stream) |

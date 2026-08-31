@@ -1,34 +1,23 @@
 class UndergroundSystem:
 
     def __init__(self):
-        self.cities = defaultdict(list)
-        self.passengers = defaultdict(list)
+        self.passengers = {}
+        self.routes = defaultdict(lambda: [0,0])
 
     def checkIn(self, id: int, stationName: str, t: int) -> None:  
-        self.passengers[id].append([stationName, t])
-        if stationName not in self.cities:
-            self.cities[stationName] = []
+        self.passengers[id] = (stationName, t)
         
 
     def checkOut(self, id: int, stationName: str, t: int) -> None:
-        startStation, time = self.passengers[id][-1]
-        cityFound = False
-        for route in self.cities[startStation]:
-            city, _, _ = route
-            if city == stationName:
-                route[1] += t - time
-                route[2] += 1
-                cityFound = True
-        if not cityFound:
-            self.cities[startStation].append([stationName, t-time, 1])
-        
+        startStation, startTime = self.passengers[id]
+        route = (startStation, stationName)
+        time = t - startTime
+        self.routes[route][0] += time
+        self.routes[route][1] += 1
 
     def getAverageTime(self, startStation: str, endStation: str) -> float:
-        for city, times, number in self.cities[startStation]:
-            print(times, number, city)
-            if city == endStation:
-                
-                return times / number
+        totalTime, travels = self.routes[(startStation, endStation)]
+        return totalTime/travels
         
 
 

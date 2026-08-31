@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/dawit2-4/dawitA2SV/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dawit2-4/dawitA2SV/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/dawit2-4/dawitA2SV/tree/master/0337-house-robber-iii) |
 | [0690-employee-importance](https://github.com/dawit2-4/dawitA2SV/tree/master/0690-employee-importance) |
 | [0772-construct-quad-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0772-construct-quad-tree) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/dawit2-4/dawitA2SV/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/dawit2-4/dawitA2SV/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dawit2-4/dawitA2SV/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0310-minimum-height-trees](https://github.com/dawit2-4/dawitA2SV/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/dawit2-4/dawitA2SV/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/dawit2-4/dawitA2SV/tree/master/0399-evaluate-division) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/dawit2-4/dawitA2SV/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dawit2-4/dawitA2SV/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/dawit2-4/dawitA2SV/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dawit2-4/dawitA2SV/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/dawit2-4/dawitA2SV/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1005-univalued-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/1005-univalued-binary-tree) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/dawit2-4/dawitA2SV/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dawit2-4/dawitA2SV/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |

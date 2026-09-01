@@ -1,21 +1,18 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        parent = [i for i in range(len(isConnected))]
-        def find(x):
-            if parent[x] != x:
-                parent[x] = find(parent[x])
-            return parent[x]
-        provinces = len(isConnected)
-
+        n = len(isConnected)
+        visited = [False] * n
+        def dfs(city):
+            for neighbour in range(n):
+                if isConnected[city][neighbour] == 1 and not visited[neighbour]:
+                    visited[neighbour] = True
+                    dfs(neighbour)
         
-        for r in range(len(isConnected)):
-            for c in range(len(isConnected)):
-                if isConnected[r][c] == 1:
-                    parent_r = find(r)
-                    parent_c = find(c)
-                    if parent_r != parent_c:
-                        parent[parent_r] = parent_c
-                        provinces -= 1
-
+        provinces = 0
+        for city in range(n):
+            if not visited[city]:
+                provinces += 1
+                visited[city] = True
+                dfs(city)
         return provinces
         

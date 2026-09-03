@@ -14,7 +14,9 @@ class Solution:
                     closest = current
                 if current < target:
                     left += 1 
-                else:
+                elif current > target:
                     right -= 1
+                else:
+                    return current
         return closest
                 

@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/dawit2-4/dawitA2SV/tree/master/0792-binary-search) |
 | [0869-similar-string-groups](https://github.com/dawit2-4/dawitA2SV/tree/master/0869-similar-string-groups) |
 | [0881-loud-and-rich](https://github.com/dawit2-4/dawitA2SV/tree/master/0881-loud-and-rich) |
+| [0904-fruit-into-baskets](https://github.com/dawit2-4/dawitA2SV/tree/master/0904-fruit-into-baskets) |
 | [0909-stone-game](https://github.com/dawit2-4/dawitA2SV/tree/master/0909-stone-game) |
 | [0945-snakes-and-ladders](https://github.com/dawit2-4/dawitA2SV/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/dawit2-4/dawitA2SV/tree/master/0960-minimize-malware-spread) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/dawit2-4/dawitA2SV/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/dawit2-4/dawitA2SV/tree/master/0721-accounts-merge) |
 | [0869-similar-string-groups](https://github.com/dawit2-4/dawitA2SV/tree/master/0869-similar-string-groups) |
+| [0904-fruit-into-baskets](https://github.com/dawit2-4/dawitA2SV/tree/master/0904-fruit-into-baskets) |
 | [0960-minimize-malware-spread](https://github.com/dawit2-4/dawitA2SV/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dawit2-4/dawitA2SV/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dawit2-4/dawitA2SV/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dawit2-4/dawitA2SV/tree/master/0424-longest-repeating-character-replacement) |
 | [0480-sliding-window-median](https://github.com/dawit2-4/dawitA2SV/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/dawit2-4/dawitA2SV/tree/master/0594-longest-harmonious-subsequence) |
+| [0904-fruit-into-baskets](https://github.com/dawit2-4/dawitA2SV/tree/master/0904-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dawit2-4/dawitA2SV/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2478-longest-nice-subarray](https://github.com/dawit2-4/dawitA2SV/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/dawit2-4/dawitA2SV/tree/master/2527-count-subarrays-with-fixed-bounds) |
